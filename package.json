@@ -1,0 +1,20 @@
+{
+  "name": "standardflow",
+  "version": "1.0.0",
+  "description": "1. 所有脚本都是一个流程\r 2. 每个流程有若干工作\r 3. 框架定义了两个个基础类: flow, work",
+  "main": "main.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "randomstring": "^1.1.5"
+  }
+}

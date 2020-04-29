@@ -1,0 +1,11 @@
+let 动作一 = function() {
+  log("动作一");
+};
+
+let 动作二 = function() {
+  log("动作二");
+};
+
+let 动作三 = function() {
+  log("动作三");
+};

@@ -1,0 +1,24 @@
+
+  动作一: {
+    name: "动作一",
+    limitTime: 5000,
+    action: function() {
+      service.动作一();
+    }
+  },
+
+  动作二: {
+    name: "动作二",
+    limitTime: 5000,
+    action: function() {
+      service.动作二();
+    }
+  },
+
+  动作三: {
+    name: "动作三",
+    limitTime: 5000,
+    action: function() {
+      service.动作三();
+    }
+  }
